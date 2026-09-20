@@ -42,7 +42,7 @@ I enjoy building practical web applications and learning how frontend, backend, 
 ### 🌾 FasalBazar
 Agricultural e-commerce marketplace connecting farmers and buyers.
 
-**Tech:** React.js, Redux Toolkit, Node.js, Express.js, MongoDB, JWT, Cloudinary, Stripe
+**Tech:** React.js, Redux Toolkit, Node.js, Express.js, MongoDB, JWT, Cloudinary
 
 🔗 [GitHub Repository](YOUR_LINK)
 
