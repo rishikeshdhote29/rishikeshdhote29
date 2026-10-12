@@ -35,7 +35,9 @@ I enjoy building practical web applications and learning how frontend, backend, 
 - GitHub Actions
 - Vercel
 - Render
-- AWS
+- AWS(basic)
+- Azure(basic)
+- Docker
 
 ## 💻 Featured Projects
 
